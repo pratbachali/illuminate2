@@ -1,0 +1,1 @@
+geneSymbol	Probe_ID	CDFHavcr1	1450364_a_at	Affy_mouse4302Havcr1	1434716_at	Affy_mouse4302Lcn2	1427747_a_at	Affy_mouse4302C1qa	1417381_at	Affy_mouse4302C1qb	1437726_x_at	Affy_mouse4302C1qc	1449401_at	Affy_mouse4302Il1b	1449399_a_at	Affy_mouse4302Lgasl3	1426808_at	Affy_mouse4302
